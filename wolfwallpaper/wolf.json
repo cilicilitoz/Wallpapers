@@ -39,7 +39,27 @@
       "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
-  "Categories": [
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+  "Data": [
     {
       "id": 1,
       "image": "https://lh3.googleusercontent.com/d/1t4ega5idptBb2KvFNh_Uhq1v6G4Z_o2j",
