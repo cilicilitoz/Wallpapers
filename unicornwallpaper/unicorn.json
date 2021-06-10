@@ -59,6 +59,12 @@
   "Data": [
     {
       "id": 1,
+      "image": "file:///android_asset/image/wallpaper79.jpg",
+      "title": "wallpaper22.jpg",
+      "name_category": "Nature"
+    },
+    {
+      "id": 1,
       "image": "file:///android_asset/image/wallpaper1.jpg",
       "title": "wallpaper1.jpg",
       "name_category": "Nature"
